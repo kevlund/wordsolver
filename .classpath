@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="neuralnet/KohonenNetwork.java|neuralnet/Network.java|neuralnet/NeuralReportable.java|neuralnet/TrainingSet.java|neuralnet/WeightSet.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/dave/code/WordSolverPC/src/neuralnet/joone-engine.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/dave/code/WordSolverPC/src/neuralnet/joone-javadoc.zip!/doc/api"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/dave/code/WordSolverPC/src/neuralnet/log4j.jar"/>
+	<classpathentry kind="lib" path="/home/dave/code/WordSolverPC/src/comms/avetanaBT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
